@@ -4,4 +4,4 @@ Building a Linear Regression. Implementation of Multilayer Perceptron for regres
 
 #### Files:
 + diamonds.csv - dataset;
-+ lecture1_hw.ipynb - Python notebook.
++ HW_1.ipynb - Python notebook.

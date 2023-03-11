@@ -3,5 +3,6 @@
 Homeworks in discipline "Deep learning".
 
 #### Description:
-+ Homework_1 - Linear Regression and Multilayer Perceptron for regression;
-+ Homework_2 - Comparing different activation functions. Testing data augmentation.
++ Homework_1 - linear regression and multilayer perceptron for regression;
++ Homework_2 - comparing different activation functions, testing data augmentation;
++ Homework_3 - convolutional neural networks.

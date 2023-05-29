@@ -9,4 +9,5 @@ Homeworks on discipline "Deep learning".
 + Homework_4 - optimization methods;
 + Homework_5 - initialization, regularization and normalization of neural networks;
 + Homework_6 - object detection, transfer learning on Faster R-CNN;
-+ Homework_7 - neural segmentation, training U-net, comparing BCE and BCE-Dice losses.
++ Homework_7 - neural segmentation, training U-net, comparing BCE and BCE-Dice losses;
++ Homework_13 - reinforcement Learning: training Q-learning and Actor-Critic algorithms.
